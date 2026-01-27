@@ -38,8 +38,8 @@ This workshop utilizes training materials from the following sources:
 *   **Galaxy Training Network**: Practical sessions are heavily based on the [Galaxy Training Network](https://training.galaxyproject.org/) tutorials listed above.
 
 ## Getting Started
-*   **Participants**: Please refer to `AGENDA.md` for the detailed daily schedule and links to lecture slides.
-*   **Instructors**: Please review `INSTRUCTIONS_FOR_TRAINERS.md` for preparation steps and teaching tips.
+*   **Participants**: Please refer to `TRAINEE_AGENDA.md` for your daily schedule and topics.
+*   **Instructors**: Please refer to `AGENDA.md` for the detailed master schedule (including filenames) and `INSTRUCTIONS_FOR_TRAINERS.md` for teaching tips.
 
 ## License
 This repository content is for educational purposes. Please refer to the original source repositories for their specific licensing terms.
