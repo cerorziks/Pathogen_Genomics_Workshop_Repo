@@ -42,9 +42,9 @@
     *   **Activity**: Use the "Eye" icon in Galaxy to identify these formats.
 
 ## 📂 Files Checklist
-Ensure these files are present in the `materials/Day1_Foundations/` folder on the instructor laptop:
-- [ ] `BioinformaticsEssentials-NGSLab2025.pdf`
-- [ ] `MQ Sequencing Tech 2025.pdf`
-- [ ] `Oxford_Nanopore_2025_plus_analysis.pdf`
-- [ ] `VMLinuxIntro-Slides-NGSLab2025.v2.pdf`
-- [ ] `DataFormats-Slides-v2.pdf`
+Ensure these files are present in the `materials/Day1_Foundations/` folder:
+- [ ] `BioinformaticsEssentials-NGSLab2025.pdf` ([Markdown Version](BioinformaticsEssentials-NGSLab2025.md))
+- [ ] `MQ Sequencing Tech 2025.pdf` ([Markdown Version](MQ%20Sequencing%20Tech%202025.md))
+- [ ] `Oxford_Nanopore_2025_plus_analysis.pdf` ([Markdown Version](Oxford_Nanopore_2025_plus_analysis.md))
+- [ ] `VMLinuxIntro-Slides-NGSLab2025.v2.pdf` ([Markdown Version](VMLinuxIntro-Slides-NGSLab2025.v2.md))
+- [ ] `DataFormats-Slides-v2.pdf` ([Markdown Version](DataFormats-Slides-v2.md))

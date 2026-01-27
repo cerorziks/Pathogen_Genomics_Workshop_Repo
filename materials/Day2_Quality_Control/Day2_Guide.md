@@ -44,6 +44,6 @@
 
 ## 📂 Files Checklist
 Ensure these files are present in the `materials/Day2_Quality_Control/` folder:
-- [ ] `Libraries 2025.pdf`
-- [ ] `qc_slides.pdf`
-- [ ] `Current Methodologies...2025.pdf` (Optional reference)
+- [ ] `Libraries 2025.pdf` ([Markdown Version](Libraries%202025.md))
+- [ ] `qc_slides.pdf` ([Markdown Version](qc_slides.md))
+- [ ] `Current Methodologies...2025.pdf` ([Markdown Version](Current%20Methodologies%20for%20Targeted%20Sequencing_NGS%20course_2025.md))

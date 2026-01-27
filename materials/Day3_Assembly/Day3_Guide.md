@@ -44,5 +44,5 @@
 
 ## 📂 Files Checklist
 Ensure these files are present in the `materials/Day3_Assembly/` folder:
-- [ ] `NGS-2023-Alignment.pdf`
-- [ ] `NGS_course-Adrian_Cazares.pdf`
+- [ ] `NGS-2023-Alignment.pdf` ([Markdown Version](NGS-2023-Alignment.md))
+- [ ] `NGS_course-Adrian_Cazares.pdf` ([Markdown Version](NGS_course-Adrian_Cazares.md))
