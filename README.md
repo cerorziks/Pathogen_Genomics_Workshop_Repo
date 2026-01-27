@@ -32,6 +32,9 @@ This workshop follows standard workflows from the [Galaxy Training Network](http
 4.  **AMR**: [AMR Gene Detection](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.html)
 5.  **Phylogenetics**: [Phylogenetics Basics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
 
+### Interactive Learning (Jupyter)
+All workshop topics are also available as **Jupyter Notebooks (.ipynb)** in the respective `materials/` folders. These notebooks combine lecture content and practical instructions into an interactive, cloud-ready format perfect for use in Google Colab or local Jupyter instances.
+
 ## Attribution & Acknowledgements
 This workshop utilizes training materials from the following sources:
 *   **WCSCourses/NGS_Bioinformatics_2025**: We gratefully acknowledge the [Wellcome Connecting Science](https://github.com/WCSCourses/NGS_Bioinformatics_2025) team for their excellent slide decks and course modules.
