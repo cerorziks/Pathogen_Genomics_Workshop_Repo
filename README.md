@@ -5,7 +5,6 @@ Welcome to the repository for the 5-Day Pathogen Genomics Workshop. This course 
 
 **Target Audience:** Public Health & Laboratory Professionals with limited bioinformatics experience.
 **Primary Analysis Platform:** [Galaxy](https://usegalaxy.org/)
-**Secondary Platform:** Command Line Interface (CLI) - *Introduced as a reference.*
 
 ## Learning Objectives
 By the end of this workshop, participants will be able to:

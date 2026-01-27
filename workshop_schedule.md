@@ -20,9 +20,9 @@
     *   *Key Concepts*: Short reads vs Long reads, error rates, throughput, cost.
 
 **Afternoon: Getting Started with Galaxy (Primary Tool)**
-*   **13:30 - 14:15**: Brief Intro to Computing & Servers (Minimal Linux).
+*   **13:30 - 14:15**: Brief Intro to Computing & Servers.
     *   *Lecture*: `VMLinuxIntro-Slides-NGSLab2025.v2.pdf` (Selected slides only).
-    *   *Concept*: What is a server? Filesystems. Cloud computing vs Local.
+    *   *Concept*: What is a server? Biocomputing concepts.
 *   **14:15 - 15:00**: Introduction to Galaxy Interface.
     *   *Galaxy Training*: [Galaxy Interface](https://training.galaxyproject.org/training-material/topics/galaxy-interface/)
     *   *Activity*: Logging in, The three panels (Tools, Main, History), Uploading data (Get Data).
