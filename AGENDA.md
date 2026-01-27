@@ -1,5 +1,5 @@
-# 5-Day Pathogen Genomics Workshop Plan
-## For Public Health & Laboratory Professionals
+# 5-Day Pathogen Genomics Workshop
+## Instructor Agenda (Master List)
 
 **Goal**: To provide a comprehensive, hands-on training in pathogen genomics, covering the workflow from sample to surveillance.
 **Target Audience**: Public Health & Laboratory Professionals with limited bioinformatics experience.
