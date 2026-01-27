@@ -11,7 +11,7 @@
 
 ### 09:00 - 10:30: Library Preparation
 *   **Topic**: How do we get DNA onto the sequencer?
-*   **Lecture Materials**: [PDF](Libraries%202025.pdf) | [Interactive Jupyter](Resource_06_NGS_Libraries.ipynb)
+*   **Lecture Slides**: `Libraries 2025.pdf`
 *   **Key Points**:
     *   Fragmentation -> Adapter Ligation -> Amplification.
     *   Paired-end sequencing concepts (R1/R2).
@@ -19,7 +19,7 @@
 
 ### 11:00 - 12:30: QC Concepts
 *   **Topic**: Measuring Quality.
-*   **Lecture Materials**: [PDF](qc_slides.pdf) | [Interactive Jupyter](Resource_07_Quality_Control.ipynb)
+*   **Lecture Slides**: `qc_slides.pdf`
 *   **Key Concepts**:
     *   **Phred Score (Q-score)**: Logarithmic probability of error (Q30 = 99.9% accuracy).
     *   **Adapters**: Artificial sequences that must be removed.
@@ -37,13 +37,13 @@
 
 ### 15:30 - 17:00: Nanopore QC
 *   **Topic**: Long Read QC.
-*   **Lecture Materials**: [Nanopore Analysis (Jupyter)](Resource_04_Oxford_Nanopore.ipynb) | [PDF](../Day1_Foundations/Oxford_Nanopore_2025_plus_analysis.pdf)
+*   **Lecture Slides**: `Oxford_Nanopore_2025_plus_analysis.pdf` (Review relevant QC slides).
 *   **Practical**:
     *   Use **NanoPlot** in Galaxy on a sample .fastq.gz file from an ONT run.
     *   Compare the "N50" and "Read Length Histogram" vs Illumina metrics.
 
 ## 📂 Files Checklist
 Ensure these files are present in the `materials/Day2_Quality_Control/` folder:
-- [ ] `Libraries 2025.pdf` (or `Resource_06_NGS_Libraries.ipynb`)
-- [ ] `qc_slides.pdf` (or `Resource_07_Quality_Control.ipynb`)
-- [ ] `Current Methodologies...2025.pdf` (or `Resource_08_Targeted_Sequencing.ipynb`)
+- [ ] `Libraries 2025.pdf`
+- [ ] `qc_slides.pdf`
+- [ ] `Current Methodologies...2025.pdf` (Optional reference)

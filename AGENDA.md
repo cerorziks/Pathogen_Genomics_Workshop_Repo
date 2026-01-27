@@ -12,25 +12,24 @@
 
 **Morning: Concepts & Technologies**
 *   **09:00 - 10:30**: Introduction to Pathogen Genomics & Bioinformatics Essentials.
-    - *Resources*: [PDF](materials/Day1_Foundations/BioinformaticsEssentials-NGSLab2025.pdf) | [Jupyter](materials/Day1_Foundations/Resource_01_Bioinformatics_Essentials.ipynb)
-    - *Key Concepts*: Central Dogma, what is genomics, applications in public health.
+    *   *Lecture Material*: `BioinformaticsEssentials-NGSLab2025.pdf`
+    *   *Key Concepts*: Central Dogma, what is genomics, applications in public health.
 *   **10:30 - 11:00**: Coffee Break
 *   **11:00 - 12:30**: Sequencing Technologies Overview (Illumina vs. Nanopore).
-    - *Resources (Illumina)*: [PDF](materials/Day1_Foundations/MQ%20Sequencing%20Tech%202025.pdf) | [Jupyter](materials/Day1_Foundations/Resource_03_Sequencing_Technologies.ipynb)
-    - *Resources (Nanopore)*: [PDF](materials/Day1_Foundations/Oxford_Nanopore_2025_plus_analysis.pdf) | [Jupyter](materials/Day1_Foundations/Resource_04_Oxford_Nanopore.ipynb)
-    - *Key Concepts*: Short reads vs Long reads, error rates, throughput, cost.
+    *   *Lecture Material*: `MQ Sequencing Tech 2025.pdf`, `Oxford_Nanopore_2025_plus_analysis.pdf`
+    *   *Key Concepts*: Short reads vs Long reads, error rates, throughput, cost.
 
 **Afternoon: Getting Started with Galaxy (Primary Tool)**
 *   **13:30 - 14:15**: Brief Intro to Computing & Servers.
-    - *Resources*: [PDF](materials/Day1_Foundations/VMLinuxIntro-Slides-NGSLab2025.v2.pdf) | [Jupyter](materials/Day1_Foundations/Resource_02_VM_Linux_Intro.ipynb)
-    - *Concept*: What is a server? Biocomputing concepts.
+    *   *Lecture*: `VMLinuxIntro-Slides-NGSLab2025.v2.pdf` (Selected slides only).
+    *   *Concept*: What is a server? Biocomputing concepts.
 *   **14:15 - 15:00**: Introduction to Galaxy Interface.
     *   *Galaxy Training*: [Galaxy Interface](https://training.galaxyproject.org/training-material/topics/galaxy-interface/)
     *   *Activity*: Logging in, The three panels (Tools, Main, History), Uploading data (Get Data).
 *   **15:00 - 15:30**: Tea Break
 *   **15:30 - 17:00**: Data Formats & History Management in Galaxy.
-    - *Resources*: [PDF](materials/Day1_Foundations/DataFormats-Slides-v2.pdf) | [Jupyter](materials/Day1_Foundations/Resource_05_Data_Formats.ipynb)
-    - *Activity*: Uploading FASTA/FASTQ files to Galaxy. Inspecting them using the "Eye" icon. Understanding Galaxy Histories (Renaming, Deleting, Tags).
+    *   *Lecture*: `DataFormats-Slides-v2.pdf`
+    *   *Activity*: Uploading FASTA/FASTQ files to Galaxy. Inspecting them using the "Eye" icon. Understanding Galaxy Histories (Renaming, Deleting, Tags).
 
 ---
 
@@ -38,12 +37,11 @@
 
 **Morning: Quality First**
 *   **09:00 - 10:30**: NGS Library Preparation & Methodologies.
-    - *Resources*: [PDF (Libraries)](materials/Day2_Quality_Control/Libraries%202025.pdf) | [Jupyter](materials/Day2_Quality_Control/Resource_06_NGS_Libraries.ipynb)
-    - *Resources (Targeted)*: [PDF](materials/Day2_Quality_Control/Current%20Methodologies%20for%20Targeted%20Sequencing_NGS%20course_2025.pdf) | [Jupyter](materials/Day2_Quality_Control/Resource_08_Targeted_Sequencing.ipynb)
-    - *Key Concepts*: WGS vs Targeted, Library construction, bias.
+    *   *Lecture Material*: `Libraries 2025.pdf`, `Current Methodologies for Targeted Sequencing_NGS course_2025.pdf`
+    *   *Key Concepts*: WGS vs Targeted, Library construction, bias.
 *   **11:00 - 12:30**: Quality Control for NGS Data.
-    - *Resources*: [PDF](materials/Day2_Quality_Control/qc_slides.pdf) | [Jupyter](materials/Day2_Quality_Control/Resource_07_Quality_Control.ipynb)
-    - *Key Concepts*: Phred scores, adapter contamination, overrepresentation, read trimming.
+    *   *Lecture Material*: `qc_slides.pdf`
+    *   *Key Concepts*: Phred scores, adapter contamination, overrepresentation, read trimming.
 
 **Afternoon: Hands-on QC**
 *   **13:30 - 15:00**: Practical: Quality Control using Galaxy.
@@ -60,9 +58,8 @@
 
 **Morning: Mapping & Assembly**
 *   **09:00 - 10:30**: Read Alignment & Mapping.
-    - *Resources*: [PDF (Mapping)](materials/Day3_Assembly/NGS-2023-Alignment.pdf) | [Jupyter](materials/Day3_Assembly/Resource_09_Read_Mapping.ipynb)
-    - *Resources (Assembly)*: [PDF](materials/Day3_Assembly/NGS_course-Adrian_Cazares.pdf) | [Jupyter](materials/Day3_Assembly/Resource_10_Genome_Assembly.ipynb)
-    - *Key Concepts*: Reference genomes, BWA/Bowtie/Minimap2, SAM/BAM manipulation.
+    *   *Lecture Material*: `NGS-2023-Alignment.pdf`, `NGS_course-Adrian_Cazares.pdf`
+    *   *Key Concepts*: Reference genomes, BWA/Bowtie/Minimap2, SAM/BAM manipulation.
 *   **11:00 - 12:30**: Genome Assembly & Annotation.
     *   *Lecture Material*: WCS Module `Genome_assembly_and_annotation`
     *   *Key Concepts*: De novo assembly (SPAdes, Unicycler), Assembly QC (QUAST), Annotation (Prokka).
