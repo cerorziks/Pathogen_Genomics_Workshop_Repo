@@ -30,7 +30,7 @@ This workshop follows standard workflows from the [Galaxy Training Network](http
 2.  **Quality Control**: [QC with FastQC](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
 3.  **Assembly**: [Unicycler Assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html)
 4.  **AMR**: [AMR Gene Detection](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.html)
-5.  **Phylogenetics**: [Phylogenetics Basics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylogenetics/tutorial.html)
+5.  **Phylogenetics**: [Phylogenetics Basics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
 
 ## Attribution & Acknowledgements
 This workshop utilizes training materials from the following sources:

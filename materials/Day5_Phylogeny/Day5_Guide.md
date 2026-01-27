@@ -23,7 +23,7 @@
 
 ### 13:30 - 15:00: Visualization Practical
 *   **Platform**: Galaxy & Web
-*   **Tutorial**: **[Phylogenetics Basics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylogenetics/tutorial.html)**
+*   **Tutorial**: **[Phylogenetics Basics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)**
 *   **Workflow**:
     1.  **Roary** (Galaxy): Create a core gene alignment from multiple `gff` files (Day 3 outputs from multiple samples).
     2.  **SNP-dists** (Galaxy): Generate a distance matrix.

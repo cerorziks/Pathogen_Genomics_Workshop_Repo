@@ -106,7 +106,7 @@
 
 **Afternoon: Visualization & Reporting**
 *   **13:30 - 15:00**: Practical: Phylogenetic Visualization.
-    *   *Galaxy Training*: [Phylogenetics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylogenetics/tutorial.html)
+    *   *Galaxy Training*: [Phylogenetics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
     *   *Lecture/Practical*: WCS Module `Phylogenetic_Visualization`
     *   *Tools*: Roary (Pangenome), SNP-dists, Microreact/Phandango (Visualization components).
     *   *Activity*: Visualize a tree with metadata (location, time, resistance profile).

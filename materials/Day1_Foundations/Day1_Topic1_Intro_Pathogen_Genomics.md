@@ -54,4 +54,4 @@ paginate: true
 
 *   **Review Article**: [Pathogen Genomics in Public Health (NEJM)](https://www.nejm.org/doi/full/10.1056/NEJMra1808251)
 *   **Global Strategy**: [WHO Global Genomic Surveillance Strategy](https://www.who.int/publications/i/item/9789240046979)
-*   **CDC Guide**: [Advanced Molecular Detection (AMD) basics](https://www.cdc.gov/amd/basics/index.html)
+*   **CDC Guide**: [Advanced Molecular Detection (AMD) basics](https://www.cdc.gov/advanced-molecular-detection/index.html)

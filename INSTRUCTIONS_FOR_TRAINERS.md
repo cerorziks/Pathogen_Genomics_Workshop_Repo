@@ -70,7 +70,7 @@
 | Session | Topic | **Source Material (Primary)** | **Practical / Activity** |
 | :--- | :--- | :--- | :--- |
 | **AM 1** | Phylogenetics | [WCS Module: Phylo Analysis](https://github.com/WCSCourses/AMR_2025/tree/main/course_modules_2025/Phylogenetics_Analyses) | Reading Trees: Rooted vs Unrooted |
-| **PM 1** | **Visualization** | [WCS Module: Phylo Viz](https://github.com/WCSCourses/AMR_2025/tree/main/course_modules_2025/Phylogenetic_Visualization) | [**GTN Tutorial: Phylogenetics**](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylogenetics/tutorial.html) <br> **Tool**: Microreact.org |
+| **PM 1** | **Visualization** | [WCS Module: Phylo Viz](https://github.com/WCSCourses/AMR_2025/tree/main/course_modules_2025/Phylogenetic_Visualization) | [**GTN Tutorial: Phylogenetics**](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html) <br> **Tool**: Microreact.org |
 
 ---
 
@@ -97,4 +97,4 @@
 | **Day 2** | QC | [Quality Control (FastQC)](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) |
 | **Day 3** | Assembly | [Unicycler Assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html) |
 | **Day 4** | AMR | [AMR Detection](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.html) |
-| **Day 5** | Phylogeny | [Phylogenetics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylogenetics/tutorial.html)
+| **Day 5** | Phylogeny | [Phylogenetics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
