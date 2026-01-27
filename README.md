@@ -34,7 +34,7 @@ This workshop follows standard workflows from the [Galaxy Training Network](http
 
 ## Attribution & Acknowledgements
 This workshop utilizes training materials from the following sources:
-*   **WCSCourses/NGS_Bioinformatics_2025**: We gratefully acknowledge the [Wellcome Connecting Science](https://github.com/WCSCourses/NGS_Bioinformatics_2025) team for their excellent slide decks and course modules.
+*   **WCSCourses/NGS_Bioinformatics_2025**: We gratefully acknowledge the [https://github.com/WCSCourses/NGS_Bioinformatics] team for their excellent slide decks and course modules.
 *   **Galaxy Training Network**: Practical sessions are heavily based on the [Galaxy Training Network](https://training.galaxyproject.org/) tutorials listed above.
 
 ## Getting Started
