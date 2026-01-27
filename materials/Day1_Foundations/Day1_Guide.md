@@ -48,3 +48,6 @@ Ensure these files are present in the `materials/Day1_Foundations/` folder:
 - [ ] `Oxford_Nanopore_2025_plus_analysis.pdf` ([Markdown Version](Oxford_Nanopore_2025_plus_analysis.md))
 - [ ] `VMLinuxIntro-Slides-NGSLab2025.v2.pdf` ([Markdown Version](VMLinuxIntro-Slides-NGSLab2025.v2.md))
 - [ ] `DataFormats-Slides-v2.pdf` ([Markdown Version](DataFormats-Slides-v2.md))
+- [ ] `linux_practical.md` (Self-paced terminal guide)
+- [ ] `unix_solutions.md` (Answers for the practical)
+- [ ] `linux_slides.md` (Alternative Linux intro)
