@@ -11,20 +11,24 @@
 
 **Morning: Concepts & Technologies**
 *   **09:00 - 10:30**: Introduction to Pathogen Genomics & Bioinformatics Essentials.
-    *   *Key Concepts*: Central Dogma, what is genomics, applications in public health.
+    - *Resources*: [PDF](materials/Day1_Foundations/BioinformaticsEssentials-NGSLab2025.pdf) | [Jupyter](materials/Day1_Foundations/Resource_01_Bioinformatics_Essentials.ipynb)
+    - *Key Concepts*: Central Dogma, what is genomics, applications in public health.
 *   **10:30 - 11:00**: Coffee Break
 *   **11:00 - 12:30**: Sequencing Technologies Overview (Illumina vs. Nanopore).
-    *   *Key Concepts*: Short reads vs Long reads, error rates, throughput, cost.
+    - *Resources*: [Jupyter (Illumina)](materials/Day1_Foundations/Resource_03_Sequencing_Technologies.ipynb) | [Jupyter (Nanopore)](materials/Day1_Foundations/Resource_04_Oxford_Nanopore.ipynb)
+    - *Key Concepts*: Short reads vs Long reads, error rates, throughput, cost.
 
 **Afternoon: Getting Started with Galaxy**
 *   **13:30 - 14:15**: Brief Intro to Computing & Servers.
-    *   *Concept*: What is a server? Biocomputing concepts.
+    - *Resource*: [Jupyter Slides](materials/Day1_Foundations/Resource_02_VM_Linux_Intro.ipynb)
+    - *Concept*: What is a server? Biocomputing concepts.
 *   **14:15 - 15:00**: Introduction to Galaxy Interface.
     *   *Galaxy Training*: [Galaxy Interface](https://training.galaxyproject.org/training-material/topics/galaxy-interface/)
     *   *Activity*: Logging in, The three panels (Tools, Main, History), Uploading data (Get Data).
 *   **15:00 - 15:30**: Tea Break
 *   **15:30 - 17:00**: Data Formats & History Management in Galaxy.
-    *   *Activity*: Uploading FASTA/FASTQ files to Galaxy. Inspecting them using the "Eye" icon. Understanding Galaxy Histories (Renaming, Deleting, Tags).
+    - *Resource*: [Jupyter Slides](materials/Day1_Foundations/Resource_05_Data_Formats.ipynb)
+    - *Activity*: Uploading FASTA/FASTQ files to Galaxy. Inspecting them using the "Eye" icon. Understanding Galaxy Histories (Renaming, Deleting, Tags).
 
 ---
 
@@ -32,9 +36,11 @@
 
 **Morning: Quality First**
 *   **09:00 - 10:30**: NGS Library Preparation & Methodologies.
-    *   *Key Concepts*: WGS vs Targeted, Library construction, bias.
+    - *Resources*: [Jupyter (NGS Libs)](materials/Day2_Quality_Control/Resource_06_NGS_Libraries.ipynb) | [Jupyter (Targeted)](materials/Day2_Quality_Control/Resource_08_Targeted_Sequencing.ipynb)
+    - *Key Concepts*: WGS vs Targeted, Library construction, bias.
 *   **11:00 - 12:30**: Quality Control for NGS Data.
-    *   *Key Concepts*: Phred scores, adapter contamination, overrepresentation, read trimming.
+    - *Resource*: [Jupyter Slides](materials/Day2_Quality_Control/Resource_07_Quality_Control.ipynb)
+    - *Key Concepts*: Phred scores, adapter contamination, overrepresentation, read trimming.
 
 **Afternoon: Hands-on QC**
 *   **13:30 - 15:00**: Practical: Quality Control using Galaxy.
@@ -50,7 +56,8 @@
 
 **Morning: Mapping & Assembly**
 *   **09:00 - 10:30**: Read Alignment & Mapping.
-    *   *Key Concepts*: Reference genomes, BWA/Bowtie/Minimap2, SAM/BAM manipulation.
+    - *Resources*: [Jupyter (Mapping)](materials/Day3_Assembly/Resource_09_Read_Mapping.ipynb) | [Jupyter (Assembly)](materials/Day3_Assembly/Resource_10_Genome_Assembly.ipynb)
+    - *Key Concepts*: Reference genomes, BWA/Bowtie/Minimap2, SAM/BAM manipulation.
 *   **11:00 - 12:30**: Genome Assembly & Annotation.
     *   *Key Concepts*: De novo assembly (SPAdes, Unicycler), Assembly QC (QUAST), Annotation (Prokka).
 

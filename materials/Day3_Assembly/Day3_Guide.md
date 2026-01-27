@@ -11,7 +11,7 @@
 
 ### 09:00 - 10:30: Read Alignment & Mapping
 *   **Topic**: Reference-based assembly.
-*   **Lecture Slides**: `NGS-2023-Alignment.pdf`
+*   **Lecture Materials**: [PDF](NGS-2023-Alignment.pdf) | [Interactive Jupyter](Resource_09_Read_Mapping.ipynb)
 *   **Key Concepts**:
     *   SAM/BAM formats (Sequence Alignment/Map).
     *   Sorting and Indexing (bai files).
@@ -19,7 +19,7 @@
 
 ### 11:00 - 12:30: Genome Assembly
 *   **Topic**: De Novo Assembly.
-*   **Lecture Slides**: `NGS_course-Adrian_Cazares.pdf`
+*   **Lecture Materials**: [PDF](NGS_course-Adrian_Cazares.pdf) | [Interactive Jupyter](Resource_10_Genome_Assembly.ipynb)
 *   **Key Concepts**:
     *   De Bruijn Graphs (k-mers).
     *   Contigs vs Scaffolds.
@@ -44,5 +44,5 @@
 
 ## 📂 Files Checklist
 Ensure these files are present in the `materials/Day3_Assembly/` folder:
-- [ ] `NGS-2023-Alignment.pdf`
-- [ ] `NGS_course-Adrian_Cazares.pdf`
+- [ ] `NGS-2023-Alignment.pdf` (or `Resource_09_Read_Mapping.ipynb`)
+- [ ] `NGS_course-Adrian_Cazares.pdf` (or `Resource_10_Genome_Assembly.ipynb`)

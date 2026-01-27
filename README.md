@@ -33,7 +33,10 @@ This workshop follows standard workflows from the [Galaxy Training Network](http
 5.  **Phylogenetics**: [Phylogenetics Basics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
 
 ### Interactive Learning (Jupyter)
-All workshop topics are also available as **Jupyter Notebooks (.ipynb)** in the respective `materials/` folders. These notebooks combine lecture content and practical instructions into an interactive, cloud-ready format perfect for use in Google Colab or local Jupyter instances.
+Every original PDF resource in this workshop has a corresponding **High-Fidelity Jupyter Notebook (.ipynb)**. 
+- **Standalone Resources**: Located in `materials/` as `Resource_XX_Name.ipynb`.
+- **Perfect Fidelity**: Every slide from the original deck is rendered as a high-quality image, ensuring 1:1 parity with the source.
+- **Searchable & Presentable**: Each notebook includes extracted text and is formatted for use as a professional slideshow.
 
 ## Attribution & Acknowledgements
 This workshop utilizes training materials from the following sources:
