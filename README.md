@@ -23,13 +23,23 @@ The materials are organized by day:
 *   **Day 4: AMR Detection**: Antimicrobial Resistance mechanisms and detection.
 *   **Day 5: Phylogenomics**: Surveillance and Phylogenetic visualization.
 
+## Key Resources
+### Core Galaxy Tutorials
+This workshop follows standard workflows from the [Galaxy Training Network](https://training.galaxyproject.org/):
+1.  **Introduction**: [Galaxy Interface](https://training.galaxyproject.org/training-material/topics/galaxy-interface/)
+2.  **Quality Control**: [QC with FastQC](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
+3.  **Assembly**: [Unicycler Assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html)
+4.  **AMR**: [AMR Gene Detection](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.html)
+5.  **Phylogenetics**: [Phylogenetics Basics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylogenetics/tutorial.html)
+
 ## Attribution & Acknowledgements
 This workshop utilizes training materials from the following sources:
-*   **WCSCourses/NGS_Bioinformatics_2025**: We gratefully acknowledge the [Wellcome Connecting Science](https://github.com/WCSCourses/NGS_Bioinformatics_2025) team for their excellent slide decks and course modules, which form the core of our lecture series.
-*   **Galaxy Training Network**: Practical sessions are heavily based on the [Galaxy Training Network](https://training.galaxyproject.org/) tutorials.
+*   **WCSCourses/NGS_Bioinformatics_2025**: We gratefully acknowledge the [Wellcome Connecting Science](https://github.com/WCSCourses/NGS_Bioinformatics_2025) team for their excellent slide decks and course modules.
+*   **Galaxy Training Network**: Practical sessions are heavily based on the [Galaxy Training Network](https://training.galaxyproject.org/) tutorials listed above.
 
 ## Getting Started
-Please refer to the `workshop_schedule.md` file for the detailed daily agenda and link to specific lecture slides.
+*   **Participants**: Please refer to `AGENDA.md` for the detailed daily schedule and links to lecture slides.
+*   **Instructors**: Please review `INSTRUCTIONS_FOR_TRAINERS.md` for preparation steps and teaching tips.
 
 ## License
 This repository content is for educational purposes. Please refer to the original source repositories for their specific licensing terms.

@@ -45,6 +45,7 @@
 
 **Afternoon: Hands-on QC**
 *   **13:30 - 15:00**: Practical: Quality Control using Galaxy.
+    *   *Galaxy Training*: [Quality Control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
     *   *Tools*: FastQC, MultiQC, Trimmomatic/Cutadapt.
     *   *Activity*: Run FastQC on raw data, interpret plots, perform trimming/filtering, re-run FastQC.
 *   **15:30 - 17:00**: Nanopore Data Analysis Basics.
@@ -65,9 +66,11 @@
 
 **Afternoon: Assembly Practical**
 *   **13:30 - 15:00**: Practical: Reference-based Mapping in Galaxy.
+    *   *Galaxy Training*: [Mapping](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)
     *   *Tools*: BWA-MEM, Samtools view/sort.
-    *   *Activity*: Map reads to a reference, visualize in JBrowse/IGV (if available in Galaxy).
+    *   *Activity*: Map reads to a reference, visualize in JBrowse/IGV.
 *   **15:30 - 17:00**: Practical: De Novo Assembly & Annotation.
+    *   *Galaxy Training*: [Unicycler Assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html)
     *   *Tools*: Unicycler (or SPAdes), QUAST, Prokka.
     *   *Activity*: Assemble a bacterial genome, assess quality, annotate genes.
 
@@ -84,8 +87,9 @@
     *   *Key Concepts*: Pathogenwatch, CGE Server.
 
 **Afternoon: AMR Practical**
-*   **15:30 - 17:00**: Practical: AMR Gene Detection (Galaxy).
-    *   *Tools*: StarAMR, ABRicate, or CARD RGI (Galaxy versions).
+*   **13:30 - 15:00**: Practical: AMR Gene Detection (Galaxy).
+    *   *Galaxy Training*: [AMR Detection (StarAMR)](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.html) *(Note: Adapting general principles for bacterial isolates)*
+    *   *Tools*: StarAMR, ABRicate (Galaxy versions).
     *   *Activity*: Screen assembled contigs for AMR genes using Galaxy tools. Interpreting tabular outputs.
 
 ---
@@ -102,8 +106,9 @@
 
 **Afternoon: Visualization & Reporting**
 *   **13:30 - 15:00**: Practical: Phylogenetic Visualization.
+    *   *Galaxy Training*: [Phylogenetics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylogenetics/tutorial.html)
     *   *Lecture/Practical*: WCS Module `Phylogenetic_Visualization`
-    *   *Tools*: Microreact, iTOL, Phandango.
+    *   *Tools*: Roary (Pangenome), SNP-dists, Microreact/Phandango (Visualization components).
     *   *Activity*: Visualize a tree with metadata (location, time, resistance profile).
 *   **15:30 - 17:00**: Final Discussion & Wrap-up.
     *   *Topic*: Implementing these workflows in your laboratory. Challenges & Opportunities.
