@@ -88,4 +88,13 @@
 
 ### **If Internet Fails...**
 1.  Have the PDF slides downloaded (done!).
-2.  Have one "Golden History" on a laptop you can project to show the results if the server is down.
+91: 2.  Have one "Golden History" on a laptop you can project to show the results if the server is down.
+
+## 🔗 Quick Reference: Galaxy Training Resources
+| Day | Topic | Direct Tutorial Link |
+| :--- | :--- | :--- |
+| **Day 1** | Interface | [Galaxy Introduction](https://training.galaxyproject.org/training-material/topics/galaxy-interface/) |
+| **Day 2** | QC | [Quality Control (FastQC)](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) |
+| **Day 3** | Assembly | [Unicycler Assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html) |
+| **Day 4** | AMR | [AMR Detection](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.html) |
+| **Day 5** | Phylogeny | [Phylogenetics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylogenetics/tutorial.html)
