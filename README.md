@@ -1,45 +1,66 @@
-# 5-Day Pathogen Genomics Workshop
-## For Public Health & Laboratory Professionals
+![Pathogen Genomics Workshop Banner](assets/banner.png)
 
-Welcome to the repository for the 5-Day Pathogen Genomics Workshop. This course is designed to provide public health and laboratory professionals with a comprehensive, hands-on introduction to pathogen genomics, from sample preparation to surveillance.
+# 🔬 Pathogen Genomics Workshop
+### *Empowering Public Health & Laboratory Professionals through Genomics*
 
-**Target Audience:** Public Health & Laboratory Professionals with limited bioinformatics experience.
-**Primary Analysis Platform:** [Galaxy](https://usegalaxy.org/)
+[![Agenda](https://img.shields.io/badge/Daily-Agenda-blue)](TRAINEE_AGENDA.md)
+[![Test](https://img.shields.io/badge/Pre/Post-Test-orange)](pre_and_post_test.md)
+[![Trainer](https://img.shields.io/badge/Trainer-Guide-green)](INSTRUCTIONS_FOR_TRAINERS.md)
+[![Galaxy](https://img.shields.io/badge/Platform-Galaxy-purple)](https://usegalaxy.org/)
 
-## Learning Objectives
-By the end of this workshop, participants will be able to:
-1.  Understand the principles of NGS technologies (Illumina & Nanopore).
-2.  Perform Quality Control (QC) on raw sequencing data.
-3.  Assemble bacterial genomes from short reads.
-4.  Detect Antimicrobial Resistance (AMR) genes using bioinformatic tools.
-5.  Interpret phylogenetic trees for outbreak investigation.
+Welcome to the official repository for the **5-Day Pathogen Genomics Workshop**. This intensive course provides a hands-on journey from raw biological samples to actionable public health intelligence.
 
-## Repository Structure
-The materials are organized by day:
+---
 
-*   **Day 1: Foundations**: Introduction to Genomics, Sequencing Technologies, and Galaxy basics.
-*   **Day 2: Quality Control**: NGS Library Prep, QC, and Nanopore Analysis.
-*   **Day 3: Assembly**: Read Mapping, De Novo Assembly, and Annotation.
-*   **Day 4: AMR Detection**: Antimicrobial Resistance mechanisms and detection.
-*   **Day 5: Phylogenomics**: Surveillance and Phylogenetic visualization.
+## 🌟 Overview
+This workshop is tailored for professionals with limited bioinformatics experience, focusing on reproducible workflows using the **Galaxy Interface**. We cover the entire spectrum of pathogen genomics, including sequencing technologies, quality control, assembly, and antimicrobial resistance detection.
 
-## Key Resources
-### Core Galaxy Tutorials
-This workshop follows standard workflows from the [Galaxy Training Network](https://training.galaxyproject.org/):
-1.  **Introduction**: [Galaxy Interface](https://training.galaxyproject.org/training-material/topics/galaxy-interface/)
-2.  **Quality Control**: [QC with FastQC](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)
-3.  **Assembly**: [Unicycler Assembly](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/unicycler-assembly/tutorial.html)
-4.  **AMR**: [AMR Gene Detection](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.html)
-5.  **Phylogenetics**: [Phylogenetics Basics](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
+### 🎯 Learning Objectives
+*   **Sequencing Literacy**: Master the differences between Illumina and Nanopore technologies.
+*   **Data Integrity**: Perform rigorous Quality Control (QC) and filtering.
+*   **Genome Reconstruction**: Perform *de novo* assembly and annotation of bacterial genomes.
+*   **Surveillance**: Detect AMR genes and interpret phylogenetic relationships for outbreak tracking.
 
-## Attribution & Acknowledgements
-This workshop utilizes training materials from the following sources:
-*   **WCSCourses/NGS_Bioinformatics_2025**: We gratefully acknowledge the [https://github.com/WCSCourses/NGS_Bioinformatics] team for their excellent slide decks and course modules.
-*   **Galaxy Training Network**: Practical sessions are heavily based on the [Galaxy Training Network](https://training.galaxyproject.org/) tutorials listed above.
+---
 
-## Getting Started
-*   **Participants**: Please refer to `TRAINEE_AGENDA.md` for your daily schedule and topics.
-*   **Instructors**: Please refer to `AGENDA.md` for the detailed master schedule (including filenames) and `INSTRUCTIONS_FOR_TRAINERS.md` for teaching tips.
+## 📅 Workshop Curriculum
 
-## License
-This repository content is for educational purposes. Please refer to the original source repositories for their specific licensing terms.
+| Day | Topic | Key Tools | Resources |
+| :--- | :--- | :--- | :--- |
+| **Day 1** | **Foundations** | Galaxy, NanoPlot | [Guide](materials/Day1_Foundations/Day1_Guide.md) |
+| **Day 2** | **Quality Control** | FastQC, Trimmomatic | [Guide](materials/Day2_Quality_Control/Day2_Guide.md) |
+| **Day 3** | **Assembly & Annotation** | Unicycler, Prokka | [Guide](materials/Day3_Assembly/Day3_Guide.md) |
+| **Day 4** | **AMR Detection** | StarAMR, ABRicate | [Guide](materials/Day4_AMR/Day4_Guide.md) |
+| **Day 5** | **Phylogenomics** | Roary, Microreact | [Guide](materials/Day5_Phylogeny/Day5_Guide.md) |
+
+---
+
+## 🛠️ Getting Started
+
+### 📝 For Participants
+1.  **Agenda**: Review the full [Trainee Agenda](TRAINEE_AGENDA.md).
+2.  **Assessment**: Complete the **[Pre-Workshop Test](pre_and_post_test.md)**.
+3.  **Setup**: Ensure you have a registered account on [UseGalaxy.com](https://usegalaxy.org/).
+
+### 🏫 For Instructors
+*   Consult the [Master Trainer Guide](INSTRUCTIONS_FOR_TRAINERS.md) for detailed session breakdowns and filenames.
+*   Review the [Trainer Agenda](AGENDA.md) for time allocations and logistics.
+
+---
+
+## 🔗 Quick Links
+*   🚀 **Platform**: [Galaxy Training Network (GTN)](https://training.galaxyproject.org/)
+*   📚 **Slides**: Accessible in the `materials/` subdirectories.
+*   🧪 **Data**: Links provided within the daily guides.
+
+---
+
+## 🤝 Attribution & Acknowledgements
+We stand on the shoulders of giants:
+*   **WCSCourses**: Slides and core modules are inspired by the [NGS Bioinformatics 2025](https://github.com/WCSCourses/NGS_Bioinformatics) team.
+*   **Galaxy Training Network**: Practical workflows are based on the globally recognized GTN tutorials.
+
+---
+
+## 📜 License
+This repository is for educational purposes. Please credit the original authors when reusing materials.
